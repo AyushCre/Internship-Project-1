@@ -1,0 +1,46 @@
+export const sampleProducts = [
+  {
+    name: 'AirPods Wireless Bluetooth Headphones',
+    image: 'https://m.media-amazon.com/images/I/61SUj2aKoEL._SL1500_.jpg',
+    description: 'Bluetooth technology lets you connect it with compatible devices',
+    brand: 'Apple',
+    category: 'Electronics',
+    price: 129.99,
+    countInStock: 25,
+    rating: 4.5,
+    numReviews: 12
+  },
+  {
+    name: 'iPhone 14 Pro 256GB Memory',
+    image: 'https://m.media-amazon.com/images/I/61HHS0HrjpL._SL1500_.jpg',
+    description: 'A new level of power and performance',
+    brand: 'Apple',
+    category: 'Mobiles',
+    price: 999.99,
+    countInStock: 10,
+    rating: 4.7,
+    numReviews: 8
+  },
+  {
+    name: 'Canon EOS 80D DSLR Camera',
+    image: 'https://images.unsplash.com/photo-1517650861776-1f7a9043aa59?q=80&w=1200&auto=format&fit=crop',
+    description: 'Characterized by versatile imaging specs',
+    brand: 'Canon',
+    category: 'Electronics',
+    price: 929.99,
+    countInStock: 7,
+    rating: 4.3,
+    numReviews: 11
+  },
+  {
+    name: 'Sony PlayStation 5',
+    image: 'https://images.unsplash.com/photo-1606813907291-76a360fcd21e?q=80&w=1200&auto=format&fit=crop',
+    description: 'The ultimate home entertainment center starts with PlayStation',
+    brand: 'Sony',
+    category: 'Gaming',
+    price: 499.99,
+    countInStock: 20,
+    rating: 4.6,
+    numReviews: 23
+  }
+]

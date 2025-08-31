@@ -1,0 +1,12 @@
+
+> ecommerce-frontend@1.0.0 dev
+> vite --host
+
+Port 5173 is in use, trying another one...
+Port 5174 is in use, trying another one...
+
+  VITE v5.4.19  ready in 136 ms
+
+  ➜  Local:   http://localhost:5175/
+  ➜  Network: http://10.208.92.239:5175/
+  ➜  press h + enter to show help
