@@ -1,48 +1,43 @@
 # MERN Stack E-commerce Project 🛍️
 
-Yeh ek full-stack E-commerce web application hai jise MERN (MongoDB, Express.js, React.js, Node.js) stack ka istemaal karke banaya gaya hai. Is project mein product listing, filtering, aur product details jaise features shaamil hain.
+A full-stack E-commerce web application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. This project includes features like product listing, detailed product views, and filtering capabilities.
 
 ## ✨ Features
 
-* **Product Listing:** Homepage par sabhi products ko card format mein dekhein.
-* **Product Details:** Kisi bhi product par click karke uski poori jaankari (description, price, images) dekhein.
-* **Search & Filter:** Products ko naam se search karein ya category ke aadhar par filter karein.
-* **Dynamic Routing:** React Router ka istemaal karke alag-alag pages par navigate karein.
-* **Backend API:** Express aur Node.js se banayi gayi RESTful API jo database se data laati hai.
+- **Product Listing:** View all available products in a card format on the homepage.
+- **Product Details:** Click on any product to see its complete information, including description, price, and images.
+- **Search & Filter:** Search for products by name or filter them based on different categories.
+- **Dynamic Routing:** Seamless navigation between different pages using React Router.
+- **Backend API:** A RESTful API built with Express and Node.js to serve data from the MongoDB database.
 
 ## 🛠️ Tech Stack & Tools
 
-* **Frontend:** React.js, CSS
-* **Backend:** Node.js, Express.js
-* **Database:** MongoDB
-* **API Testing:** Postman (Aap yahan mention kar sakte hain)
+- **Frontend:** React.js, CSS
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
 
-## 🚀 Is Project ko Locally Kaise Chalayein?
+## 🚀 How to Run This Project Locally
 
-1.  **Repository ko Clone Karein:**
+1.  **Clone the Repository:**
     ```bash
     git clone [https://github.com/AyushCre/Internship-Project-1.git](https://github.com/AyushCre/Internship-Project-1.git)
     ```
 
-2.  **Project Folder Mein Jaaein:**
+2.  **Navigate to the Project Directory:**
     ```bash
     cd Internship-Project-1
     ```
 
-3.  **Backend Dependencies Install Karein aur Start Karein:**
+3.  **Install Backend Dependencies and Start the Server:**
     ```bash
     cd backend
     npm install
     npm start
     ```
 
-4.  **Frontend Dependencies Install Karein aur Start Karein:** (Naya Terminal khol kar)
+4.  **Install Frontend Dependencies and Start the Client:** (In a new terminal window)
     ```bash
     cd frontend
     npm install
     npm run dev
     ```
-
----
-
-Yeh template add karne ke baad, koi bhi aapke project par aayega to use saari jaankari bahut hi saaf-sutre tareeke se mil jaayegi.
